@@ -1,0 +1,14 @@
+{
+  "name": "EGCHAT",
+  "short_name": "EGCHAT",
+  "description": "EGCHAT - Super App Guinea Ecuatorial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00c8a0",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/assets/assets/logo-transparent.a72ef7e543d083f7c4e57ef15d0096d2.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/assets/logo-transparent.a72ef7e543d083f7c4e57ef15d0096d2.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
