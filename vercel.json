@@ -1,1 +1,1 @@
-{"cleanUrls":false,"trailingSlash":false,"rewrites":[{"source":"/(?!.*\\\\.(?:js|css|png|jpg|svg|ttf|woff|woff2|json|ico|webp|mp4|wav|mp3))(.*)","destination":"/index.html"}]}
+{"rewrites":[{"source":"/manifest.json","destination":"/manifest.json"},{"source":"/_expo/(.*)","destination":"/_expo/$1"},{"source":"/assets/(.*)","destination":"/assets/$1"},{"source":"/(.*)","destination":"/index.html"}]}
